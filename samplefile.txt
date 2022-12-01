@@ -1,6 +1,5 @@
-//tharun
+hello tarun[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C//write a function in your name
 
 function test(){
-         console.log('Tharun Naidu Lella');
+         console.log('This is a sample function');
 }
-Hello Tharun Rider
